@@ -1,0 +1,13 @@
+C:\Users\elpid_xpx\Documents\ElpidioDev\ProjetoWebClient\bin\Release\net6.0\publish\ProjetoWebClient.exe
+C:\Users\elpid_xpx\Documents\ElpidioDev\ProjetoWebClient\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\elpid_xpx\Documents\ElpidioDev\ProjetoWebClient\bin\Release\net6.0\publish\appsettings.json
+C:\Users\elpid_xpx\Documents\ElpidioDev\ProjetoWebClient\bin\Release\net6.0\publish\ProjetoWebClient.dll
+C:\Users\elpid_xpx\Documents\ElpidioDev\ProjetoWebClient\bin\Release\net6.0\publish\ProjetoWebClient.deps.json
+C:\Users\elpid_xpx\Documents\ElpidioDev\ProjetoWebClient\bin\Release\net6.0\publish\ProjetoWebClient.runtimeconfig.json
+C:\Users\elpid_xpx\Documents\ElpidioDev\ProjetoWebClient\bin\Release\net6.0\publish\ProjetoWebClient.pdb
+C:\Users\elpid_xpx\Documents\ElpidioDev\ProjetoWebClient\bin\Release\net6.0\publish\System.Data.SqlClient.dll
+C:\Users\elpid_xpx\Documents\ElpidioDev\ProjetoWebClient\bin\Release\net6.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\elpid_xpx\Documents\ElpidioDev\ProjetoWebClient\bin\Release\net6.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\elpid_xpx\Documents\ElpidioDev\ProjetoWebClient\bin\Release\net6.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\elpid_xpx\Documents\ElpidioDev\ProjetoWebClient\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elpid_xpx\Documents\ElpidioDev\ProjetoWebClient\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

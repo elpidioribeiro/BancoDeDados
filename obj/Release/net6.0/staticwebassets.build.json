@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "VsW6Vp58xhmYZIXR9G4kEk8I2glF2i+TYLVG6DYJUXA=",
+  "Source": "ProjetoWebClient",
+  "BasePath": "_content/ProjetoWebClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjetoWebClient\\wwwroot",
+      "Source": "ProjetoWebClient",
+      "ContentRoot": "C:\\Users\\elpid_xpx\\Documents\\ElpidioDev\\ProjetoWebClient\\wwwroot\\",
+      "BasePath": "_content/ProjetoWebClient",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\elpid_xpx\\Documents\\ElpidioDev\\ProjetoWebClient\\wwwroot\\index.html",
+      "SourceId": "ProjetoWebClient",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elpid_xpx\\Documents\\ElpidioDev\\ProjetoWebClient\\wwwroot\\",
+      "BasePath": "_content/ProjetoWebClient",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
